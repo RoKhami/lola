@@ -1,1 +1,1 @@
-Ex text
+ex text
